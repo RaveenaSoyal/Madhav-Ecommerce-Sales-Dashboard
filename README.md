@@ -42,3 +42,6 @@ Madhav Ecommerce Sales Dashboard is a Power BI project that provides a comprehen
 
 5. **Seasonal Trends:**
    - Identify any seasonal trends or patterns in sales data to optimize marketing efforts.
+  
+![Madhav store dashboard ss](https://github.com/RaveenaSoyal/Madhav-Ecommerce-Sales-Dashboard/assets/162892512/683ae3f9-b8d1-4757-8e71-7e9bb8240fdf)
+
