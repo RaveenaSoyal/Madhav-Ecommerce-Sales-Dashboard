@@ -1,47 +1,48 @@
 # Madhav Ecommerce Sales Dashboard
 
-## Overview
+## ▶ Objective👇:
 
-Madhav Ecommerce Sales Dashboard is a Power BI project that provides a comprehensive visualization of sales data for an ecommerce business. The dashboard includes key performance indicators (KPIs), trend analysis, and insights to help stakeholders make informed decisions.
+The owner of Madhav Store has tasked us with creating a dashboard to track and analyze their online sales across India.
 
-## Features
+## ▶ Key Metrics👇 :
 
-- **Sales Overview:** Visual representation of overall sales performance.
-- **Product Insights:** Analysis of top-selling products and product categories.
-- **Customer Segmentation:** Understanding customer segments based on sales behavior.
-- **Geographical Analysis:** Mapping sales data to identify regional trends.
-- **Sales Funnel:** Visualizing the sales process from leads to conversions.
+1. **Clothing Dominance:**
+   - The clothing category covers almost 63% of the total market.
 
-## Learnings
+2. **Top Customers:**
+   - Harivansh is the Top Purchasing Customer, spending around 9900 INR, followed by Madhav and Madan Mohan.
 
-1. **Data Integration:**
-   - Gain hands-on experience in integrating and transforming data from various sources for meaningful analysis in Power BI.
+3. **Profitable Regions:**
+   - Maximum Profit is earned by Maharashtra State, followed by Madhya Pradesh, Uttar Pradesh, and Delhi.
 
-2. **Dashboard Design:**
-   - Explore effective dashboard design principles to create a visually appealing and user-friendly interface.
+4. **Payment Preferences:**
+   - COD is the most preferred Payment Mode, followed by UPI.
 
-3. **KPI Selection:**
-   - Learn how to identify and select key performance indicators (KPIs) relevant to business goals for tracking and monitoring.
+5. **Top and Bottom Subcategories:**
+   - Printers are the top-selling subcategory across India.
+   - Tables had the lowest Profit.
 
-4. **User Interactivity:**
-   - Implement interactive features within the dashboard to allow users to explore and drill down into specific data points.
+6. **Profitable Months:**
+   - November emerged as the most profitable month, with the highest Sum of Profit 💹.
+   - May, July, September, and December had the lowest Profit (were in loss).
 
-## Insights
+## ▶ Project Learning Outcomes👇:
 
-1. **Top Performing Products:**
-   - Identify and showcase the best-selling products, helping in inventory management and marketing strategies.
+1. **Interactive Dashboard:**
+   - Created an interactive dashboard to track and analyze online sales data.
 
-2. **Customer Behavior:**
-   - Understand customer preferences and behaviors through purchasing patterns and segmentation.
+2. **AOV Calculation:**
+   - Created new columns AOV (Average Order Value) using the DAX function to clearly show the average price per product.
 
-3. **Regional Sales Trends:**
-   - Analyze geographical sales data to identify regions with high and low sales performance.
+3. **Customized Visualizations:**
+   - Used different types of customized visualizations, including donut charts, stacked bar charts, stacked column charts, cards, and slicer📈 📊.
 
-4. **Conversion Rates:**
-   - Track the sales funnel to assess conversion rates at different stages of the customer journey.
+4. **Key Performance Indicators (KPIs):**
+   - Implemented key performance indicators (KPIs) and visually represented them.
 
-5. **Seasonal Trends:**
-   - Identify any seasonal trends or patterns in sales data to optimize marketing efforts.
-  
+5. **Slicer Exploration:**
+   - Slicers were added to enable easy exploration of quarterly and state-wise data in a single view.
+
+
 ![Madhav store dashboard ss](https://github.com/RaveenaSoyal/Madhav-Ecommerce-Sales-Dashboard/assets/162892512/683ae3f9-b8d1-4757-8e71-7e9bb8240fdf)
 
